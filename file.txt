@@ -1,0 +1,4 @@
+Hello!
+Ahoj!
+Nazdar!
+Bye!
